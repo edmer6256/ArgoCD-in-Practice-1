@@ -3,6 +3,6 @@ kind: ConfigMap
 metadata: 
   name: argocd-cm 
 data:
-  accounts.alina: apiKey, login
+  accounts.edmer6256: apiKey, login
   accounts.gitops-ci: apiKey
   admin.enabled: "false"
